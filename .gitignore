@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Generated artifacts
+dist/
+generated/*
+!generated/.gitkeep
+
+# Local npm configuration and caches
+.npmrc
+.npm-cache/
+.npm/
+
+.next/
